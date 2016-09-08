@@ -7,6 +7,10 @@
 	Author: Jem Turner
 	Author URI: http://jemturner.co.uk
 	License: GPL2
+	
+	Full credit for the actual query goes to:
+	http://stackoverflow.com/users/493168/kaorukobo via
+	http://stackoverflow.com/a/18669257
 
 */
 
